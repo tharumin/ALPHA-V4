@@ -16,7 +16,7 @@
     <br>
         <a href="https://chat.whatsapp.com/EmxfOklzLVIIyDEKPx4IYj">Whatsapp Support Group 01</a> |
 	<a href="https://chat.whatsapp.com/KpBbjUuoKCE5DclK9lKdr0">Whatsapp Support Group 02</a> |
-	<a href="https://t.me/+TaQGxVd7ZM43NDk1">Telegarm Support Group</a> |
+	<a href="https://t.me/+TaQGxVd7ZM43NDk1">Telegaurm Support Group</a> |
 	<a href="https://achibrolk.wordpress.com/alpha-bot-service">Official Web Site </a> |
         <a href="https://www.youtube.com/c/ABLKPGAchiBrolk">Youtube Channel</a> |
 	<a href="https://chat.whatsapp.com/FTtlr84ndUWIkR7PeHoqXJ">Whatsapp Bot Group</a> |
@@ -31,7 +31,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTONLINE/ALPHA-Qr-Session?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AchiyaCT/ALPHA-V4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tharumin/ALPHA-V4)
 </div>
 
 ----
